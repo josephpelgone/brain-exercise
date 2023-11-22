@@ -2,7 +2,7 @@
 
 ## Easy = 1 pt
 ## Moderate = 2 pts
-## Hard = 6 pts
+## Hard = 7 pts
 
 ## EASY
 
