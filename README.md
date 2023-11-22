@@ -4,7 +4,7 @@
 ## Moderate = 1 pts
 ## Hard = 5 pts
 
-START EASY PROBLEM
+#### START EASY PROBLEM
 
 /\*
 Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
@@ -33,9 +33,9 @@ unluckyDays(1986) == 1
 
 \*/
 
-END EASY PROBLEM
+#### END EASY PROBLEM
 
-START MODERATE PROBLEM
+#### START MODERATE PROBLEM
 
 /\*
 Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('\_').
@@ -61,9 +61,9 @@ Examples
 
 \*/
 
-END MODERATE PROBLEM
+#### END MODERATE PROBLEM
 
-START HARD PROBLEM
+#### START HARD PROBLEM
 
 /\*
 You wrote all your unit test names in camelCase. But some of your colleagues have troubles reading these long test names. So you make a compromise to switch to underscore separation.
@@ -115,8 +115,8 @@ Examples :
 "24z6 1z23 y369 89z 900b" = 900 + 369 - 246 _ 123 / 89 = 1414
 "10a 90x 14b 78u 45a 7b 34y" = 10 + 45 - 14 _ 7 / 78 + 90 - 34 = 60
 
-END HARD PROBLEM
+####  END HARD PROBLEM
 
 \*/
 
-Good luck and may the CODE be with you!
+# Good luck and may the CODE be with you!
