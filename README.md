@@ -1,7 +1,7 @@
 # Problem Scoring:
 
-## Easy = .5 pts
-## Moderate = 1 pts
+## Easy = 1 pts
+## Moderate = 2 pts
 ## Hard = 5 pts
 
 ## EASY
