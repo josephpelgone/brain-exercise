@@ -4,7 +4,9 @@
 ## Moderate = 1 pts
 ## Hard = 5 pts
 
-#### START EASY PROBLEM
+## EASY
+
+#### 1.
 
 /\*
 Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
@@ -15,6 +17,8 @@ uniqueInOrder('AAAABBBCCDAABBB') == ['A', 'B', 'C', 'D', 'A', 'B']
 uniqueInOrder('ABBCcAD') == ['A', 'B', 'C', 'c', 'A', 'D']
 uniqueInOrder([1,2,2,3,3]) == [1,2,3]
 \*/
+
+#### 2.
 
 /\*
 
@@ -33,9 +37,9 @@ unluckyDays(1986) == 1
 
 \*/
 
-#### END EASY PROBLEM
+#### MODERATE
 
-#### START MODERATE PROBLEM
+#### 1.
 
 /\*
 Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('\_').
@@ -45,6 +49,8 @@ Examples:
 'abc' => ['ab', 'c_']
 'abcdef' => ['ab', 'cd', 'ef']
 \*/
+
+#### 2.
 
 /\*
 
@@ -61,9 +67,9 @@ Examples
 
 \*/
 
-#### END MODERATE PROBLEM
+## HARD
 
-#### START HARD PROBLEM
+#### 1.
 
 /\*
 You wrote all your unit test names in camelCase. But some of your colleagues have troubles reading these long test names. So you make a compromise to switch to underscore separation.
@@ -97,6 +103,8 @@ Example:
 "_UnderscoreMarked_Test_Name_" => _Underscore_Marked_Test_Name_"
 \*/
 
+
+#### 2.
 /\*
 Your task is to write a function that receives as its single argument a string that contains numbers delimited by single spaces. Each number has a single alphabet letter somewhere within it.
 
